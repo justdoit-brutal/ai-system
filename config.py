@@ -1,0 +1,2 @@
+MAX_TRIES = 5
+PASS_SCORE = 85
